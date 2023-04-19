@@ -42,21 +42,25 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 Welcome to AI-Tunes. A team collaborated, full stack application utilizing the React Framework, Express, Mongoose, Node.js, and various third party API's to deliver to you a music matching party game that's fun for everyone. Select from your favorite artist and try your luck at guessing the song the AI generated voice is singing.
 
+Shout out to [Michael DiFelice](https://github.com/StandardDemacian) and [Sara Abdelbarry](https://github.com/srbrry) - Two fantastic coders/designers and team mates
+
 ![AI-Tunes](images/ai-tunes-mockup.png)
 
 
-Shout out to [Michael DiFelice](https://github.com/StandardDemacian) and [Sara Abdelbarry](https://github.com/srbrry) - Two fantastic coders/designers and team mates
+
 
 ### Passport
 [Click here](https://passport-7k56.onrender.com/)
 
 Team collaborated, full stack application utilizing the MERN Infrastructure. Keep track of all of your travels using Passport! The free-to-use itinerary app that let's you keep a log of your travel destinations
 
+One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Nakumura](https://github.com/anakamuro), [Sara Abdelbarry](https://github.com/srbrry), and Erm Mercedez
+
 ![Passport](images/passport-laptop-mockup.png)
 
 
 
-One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Nakumura](https://github.com/anakamuro), [Sara Abdelbarry](https://github.com/srbrry), and Erm Mercedez
+
 
 ### FitTrack
 [Click here](https://vbernard16.github.io/Workout-Tracker---Client/)
