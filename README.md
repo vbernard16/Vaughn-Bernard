@@ -39,7 +39,7 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 ### AI Tunes
 [Click here](https://ai-tunes-client.onrender.com/)
-![AI-Tunes](images/AI-Tunes.png)
+![AI-Tunes](images/ai-tunes-mockup.png)
 
 Welcome to AI-Tunes. A team collaborated, full stack application utilizing the React Framework, Express, Mongoose, Node.js, and various third party API's to deliver to you a music matching party game that's fun for everyone. Select from your favorite artist and try your luck at guessing the song the AI generated voice is singing.
 
