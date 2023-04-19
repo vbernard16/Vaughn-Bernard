@@ -2,7 +2,7 @@
 
 ## About Me
 
-Chemist by training, environmental protector by trade, web developer by heart, and bird lover by nature - a full stack engineer looking to make the world better, little by little.
+Chemist by training and web developer by heart - a full stack engineer who just likes coding for fun.
 
 Studying as a chemist, and working in the environmental industry for almost 5 years gave me experience and knowledge that are both irreplaceable. But after 5 years, it’s time for a change. Switching careers to software engineering, I hope to bring the same values and experiences I’ve learned to coding. Stewardship, communication, and service are just a few of the skills I’ve picked up along the way, and these skills run deep, almost as deep as my love for bird-watching. I hope to bring that with me to coding as well - somehow, someway
 
@@ -32,6 +32,7 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vbernard16&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vbernard16&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![skyline-gif](gifs/Animation.gif)
 
 
 ## My Projects
@@ -57,7 +58,7 @@ Log all of your fitness gains with FitTrack, the personal full-stack app that le
 
 Who needs Vegas when Vegas can come straight to your home? Who needs nature when nature can come to you? Welcome to "Birb Slots", a simple Javascript powered, in-browser video game that simulates the experience of high dollar Las Vegas Casino slot reels AND brings some of the world's coolest feathered friends to your computer.
 
-### 😂 Random Dev Meme
+###  Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
