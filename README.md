@@ -37,23 +37,26 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 ## My Projects
 
+[### AI Tunes](https://ai-tunes-client.onrender.com/)
 ![AI-Tunes](images/AI-Tunes.png)
 
 Welcome to AI-Tunes. A team collaborated, full stack application utilizing the React Framework, Express, Mongoose, Node.js, and various third party API's to deliver to you a music matching party game that's fun for everyone. Select from your favorite artist and try your luck at guessing the song the AI generated voice is singing.
 
 Shout out to [Michael DiFelice](https://github.com/StandardDemacian) and [Sara Abdelbarry](https://github.com/srbrry) - Two fantastic coders/designers and team mates
 
-
+### Passport
 ![Passport](images/Passport%20Project.png)
 
 Team collaborated, full stack application utilizing the MERN Infrastructure. Keep track of all of your travels using Passport! The free-to-use itinerary app that let's you keep a log of your travel destinations
 
 One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Nakumura](https://github.com/anakamuro), [Sara Abdelbarry](https://github.com/srbrry), and Erm Mercedez
 
+### FitTrack
 ![Workout Tracker](images/workoutTracker.png)
 
 Log all of your fitness gains with FitTrack, the personal full-stack app that let's you log all of you exercise info and helps you keep track of all of your fitness goals. Web application utilizing vanilla JS, Express, Node, and Mongoose to deliver a fully customizable experience for fitness enthusiasts everywhere
 
+### Birb Slots
 ![Birb-Slots](images/birbSlotsHomePage.png)
 
 Who needs Vegas when Vegas can come straight to your home? Who needs nature when nature can come to you? Welcome to "Birb Slots", a simple Javascript powered, in-browser video game that simulates the experience of high dollar Las Vegas Casino slot reels AND brings some of the world's coolest feathered friends to your computer.
