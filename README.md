@@ -8,6 +8,7 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 ## Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=react,node,express,mysql,mongodb,django,postgressql,bootstrap,git)](https://skillicons.dev)
+| hey    | hey   |
 | ------ | ----- |
 | React | Node |
 | Express | MySQL |
