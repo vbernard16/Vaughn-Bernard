@@ -55,7 +55,7 @@ One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Naku
 
 ### FitTrack
 [Click here](https://vbernard16.github.io/Workout-Tracker---Client/)
-![Workout Tracker](images/workoutTracker.png)
+![Workout Tracker](images/workoutTracker-mockup.png)
 
 Log all of your fitness gains with FitTrack, the personal full-stack app that let's you log all of you exercise info and helps you keep track of all of your fitness goals. Web application utilizing vanilla JS, Express, Node, and Mongoose to deliver a fully customizable experience for fitness enthusiasts everywhere
 
