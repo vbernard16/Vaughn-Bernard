@@ -27,7 +27,10 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 | SQL | Java |
 
 
-## Skills
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=vbernard16&theme=buefy&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=vbernard16&theme=buefy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vbernard16&theme=buefy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
@@ -53,3 +56,9 @@ Log all of your fitness gains with FitTrack, the personal full-stack app that le
 ![Birb-Slots](images/birbSlotsHomePage.png)
 
 Who needs Vegas when Vegas can come straight to your home? Who needs nature when nature can come to you? Welcome to "Birb Slots", a simple Javascript powered, in-browser video game that simulates the experience of high dollar Las Vegas Casino slot reels AND brings some of the world's coolest feathered friends to your computer.
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=vbernard16&icon=0&color=0)](https://visitcount.itsvg.in)
