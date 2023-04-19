@@ -18,7 +18,7 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 
 ## Languages 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,java,sql&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,java,sql)](https://skillicons.dev)
 
 |            |        |
 | ---------- | ------ |
@@ -39,9 +39,10 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 ### AI Tunes
 [Click here](https://ai-tunes-client.onrender.com/)
+Welcome to AI-Tunes. A team collaborated, full stack application utilizing the React Framework, Express, Mongoose, Node.js, and various third party API's to deliver to you a music matching party game that's fun for everyone. Select from your favorite artist and try your luck at guessing the song the AI generated voice is singing.
+
 ![AI-Tunes](images/ai-tunes-mockup.png)
 
-Welcome to AI-Tunes. A team collaborated, full stack application utilizing the React Framework, Express, Mongoose, Node.js, and various third party API's to deliver to you a music matching party game that's fun for everyone. Select from your favorite artist and try your luck at guessing the song the AI generated voice is singing.
 
 Shout out to [Michael DiFelice](https://github.com/StandardDemacian) and [Sara Abdelbarry](https://github.com/srbrry) - Two fantastic coders/designers and team mates
 
