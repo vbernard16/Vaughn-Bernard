@@ -7,12 +7,20 @@ Chemist by training, environmental protector by trade, web developer by heart, a
 Studying as a chemist, and working in the environmental industry for almost 5 years gave me experience and knowledge that are both irreplaceable. But after 5 years, it’s time for a change. Switching careers to software engineering, I hope to bring the same values and experiences I’ve learned to coding. Stewardship, communication, and service are just a few of the skills I’ve picked up along the way, and these skills run deep, almost as deep as my love for bird-watching. I hope to bring that with me to coding as well - somehow, someway
 
 ## Technologies I use
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+| React | Node |
+| Express | MySQL |
+| Mongoose | MongoDB |
+| Django | PostgresSQL |
+| Bootstrap | git |
 
-Express, MySQL, Node, React, Mongoose, MongoDB, Djano, PostgresSQL, Bootstrap, git
 
 ## Languages 
 
-Javascript, Python, HTML, CSS, SQL, Java
+| Javascript | Python |
+| HTML | CSS |
+| SQL | Java |
+
 
 ## Skills
 
