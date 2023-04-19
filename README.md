@@ -18,7 +18,7 @@ Studying as a chemist, and working in the environmental industry for almost 5 ye
 
 
 ## Languages 
-[![My Skills](https://skillicons.dev/icons?i=js,py,html,css&perline=2)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,html,css,java,sql&perline=2)](https://skillicons.dev)
 
 |            |        |
 | ---------- | ------ |
@@ -44,7 +44,7 @@ Shout out to [Michael DiFelice](https://github.com/StandardDemacian) and [Sara A
 
 Team collaborated, full stack application utilizing the MERN Infrastructure. Keep track of all of your travels using Passport! The free-to-use itinerary app that let's you keep a log of your travel destinations
 
-One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Nakumura](https://github.com/anakamuro), [Sara Abdelbarry](https://github.com/rbeck19), and Erm Mercedez
+One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Nakumura](https://github.com/anakamuro), [Sara Abdelbarry](https://github.com/srbrry), and Erm Mercedez
 
 ![Workout Tracker](images/workoutTracker.png)
 
