@@ -48,23 +48,28 @@ Shout out to [Michael DiFelice](https://github.com/StandardDemacian) and [Sara A
 
 ### Passport
 [Click here](https://passport-7k56.onrender.com/)
+Team collaborated, full stack application utilizing the MERN Infrastructure. Keep track of all of your travels using Passport! The free-to-use itinerary app that let's you keep a log of your travel destinations
+
 ![Passport](images/passport-laptop-mockup.png)
 
-Team collaborated, full stack application utilizing the MERN Infrastructure. Keep track of all of your travels using Passport! The free-to-use itinerary app that let's you keep a log of your travel destinations
+
 
 One of a kind Team Mates: [Ryan Beck](https://github.com/rbeck19), [Akihiko Nakumura](https://github.com/anakamuro), [Sara Abdelbarry](https://github.com/srbrry), and Erm Mercedez
 
 ### FitTrack
 [Click here](https://vbernard16.github.io/Workout-Tracker---Client/)
+Log all of your fitness gains with FitTrack, the personal full-stack app that let's you log all of you exercise info and helps you keep track of all of your fitness goals. Web application utilizing vanilla JS, Express, Node, and Mongoose to deliver a fully customizable experience for fitness enthusiasts everywhere
+
 ![Workout Tracker](images/workoutTracker-mockup.png)
 
-Log all of your fitness gains with FitTrack, the personal full-stack app that let's you log all of you exercise info and helps you keep track of all of your fitness goals. Web application utilizing vanilla JS, Express, Node, and Mongoose to deliver a fully customizable experience for fitness enthusiasts everywhere
 
 ### Birb Slots
 [Click here](https://vbernard16.github.io/Slot-Machine-/)
+Who needs Vegas when Vegas can come straight to your home? Who needs nature when nature can come to you? Welcome to "Birb Slots", a simple Javascript powered, in-browser video game that simulates the experience of high dollar Las Vegas Casino slot reels AND brings some of the world's coolest feathered friends to your computer.
+
 ![Birb-Slots](images/birb-slots-laptop-mockup.png)
 
-Who needs Vegas when Vegas can come straight to your home? Who needs nature when nature can come to you? Welcome to "Birb Slots", a simple Javascript powered, in-browser video game that simulates the experience of high dollar Las Vegas Casino slot reels AND brings some of the world's coolest feathered friends to your computer.
+
 
 
 
